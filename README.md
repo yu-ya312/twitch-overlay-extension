@@ -12,5 +12,10 @@ Twitchをフルスクリーンでもチャット表示できるChrome拡張
 2. 「デベロッパーモード」ON
 3. フォルダを読み込む
 
+## デモ
+
+![Video Project 3](https://github.com/user-attachments/assets/9e37c76b-3133-4824-952a-400ff44d6272)
+
+
 ## 注意
 個人用として作成
